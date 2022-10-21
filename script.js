@@ -11,7 +11,7 @@ $(document).ready(function(){
   var typed = new Typed(".typing",{
     strings: ["Programmer","Engineer","Frontend-developer","Designer"],
     typespeed:100,
-    backspeed:80,
+    backspeed:40,
     loop:true
   });
 
